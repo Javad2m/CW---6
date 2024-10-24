@@ -1,0 +1,14 @@
+C:\Users\Notebook\Desktop\CW - 6\1\cw6\cw6\obj\Debug\net8.0\cw6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Notebook\Desktop\CW - 6\1\cw6\cw6\obj\Debug\net8.0\cw6.AssemblyInfoInputs.cache
+C:\Users\Notebook\Desktop\CW - 6\1\cw6\cw6\obj\Debug\net8.0\cw6.AssemblyInfo.cs
+C:\Users\Notebook\Desktop\CW - 6\1\cw6\cw6\obj\Debug\net8.0\cw6.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\Desktop\CW - 6\1\cw6\cw6\bin\Debug\net8.0\cw6.exe
+C:\Users\Notebook\Desktop\CW - 6\1\cw6\cw6\bin\Debug\net8.0\cw6.deps.json
+C:\Users\Notebook\Desktop\CW - 6\1\cw6\cw6\bin\Debug\net8.0\cw6.runtimeconfig.json
+C:\Users\Notebook\Desktop\CW - 6\1\cw6\cw6\bin\Debug\net8.0\cw6.dll
+C:\Users\Notebook\Desktop\CW - 6\1\cw6\cw6\bin\Debug\net8.0\cw6.pdb
+C:\Users\Notebook\Desktop\CW - 6\1\cw6\cw6\obj\Debug\net8.0\cw6.dll
+C:\Users\Notebook\Desktop\CW - 6\1\cw6\cw6\obj\Debug\net8.0\refint\cw6.dll
+C:\Users\Notebook\Desktop\CW - 6\1\cw6\cw6\obj\Debug\net8.0\cw6.pdb
+C:\Users\Notebook\Desktop\CW - 6\1\cw6\cw6\obj\Debug\net8.0\cw6.genruntimeconfig.cache
+C:\Users\Notebook\Desktop\CW - 6\1\cw6\cw6\obj\Debug\net8.0\ref\cw6.dll
